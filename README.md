@@ -20,3 +20,7 @@ Python, JSON
 
 ```bash
 python main.py
+```
+
+## Author
+Hridya Das
