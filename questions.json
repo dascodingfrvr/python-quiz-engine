@@ -1,0 +1,432 @@
+ [
+  {
+    "question": "Which ancient Indian text is considered the oldest surviving Sanskrit grammar?",
+    "options": ["Rigveda", "Ashtadhyayi", "Mahabharata", "Ramayana"],
+    "answer": 2
+  },
+  {
+    "question": "In which year did the Battle of Plassey take place?",
+    "options": ["1757", "1764", "1775", "1781"],
+    "answer": 1
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods?",
+    "options": ["Ganges", "Kosi", "Yamuna", "Brahmaputra"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to chair the United Nations General Assembly?",
+    "options": ["Vijaya Lakshmi Pandit", "Indira Gandhi", "Sarojini Naidu", "Rajkumari Amrit Kaur"],
+    "answer": 1
+  },
+  {
+    "question": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "answer": 4
+  },
+  {
+    "question": "What is the chemical formula for ozone?",
+    "options": ["O2", "O3", "CO2", "H2O"],
+    "answer": 2
+  },
+  {
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+    "answer": 3
+  },
+  {
+    "question": "In which year was the Indian National Congress founded?",
+    "options": ["1885", "1905", "1920", "1947"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote the book 'The Discovery of India'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Rajguru"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": ["Kathmandu", "Thimphu", "Dhaka", "Colombo"],
+    "answer": 2
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Beryllium"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Rajguru"],
+    "answer": 2
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": 4
+  },
+  {
+    "question": "In which year did India gain independence?",
+    "options": ["1945", "1947", "1950", "1952"],
+    "answer": 2
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Won", "Yen", "Ringgit", "Baht"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": 3
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "options": ["Europe", "Australia", "Africa", "South America"],
+    "answer": 2
+  },
+  {
+    "question": "What is the pH value of pure water?",
+    "options": ["5", "7", "9", "11"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Maharashtra", "Gujarat", "Tamil Nadu", "Kerala"],
+    "answer": 2
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+    "answer": 1
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": ["Himalayas", "Andes", "Ural", "Rocky"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": 3
+  },
+  {
+    "question": "Which vitamin is produced in the skin upon exposure to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": 4
+  },
+  {
+    "question": "Who was the first woman President of India?",
+    "options": ["Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Rajkumari Amrit Kaur"],
+    "answer": 2
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "options": ["Thames", "Seine", "Rhine", "Danube"],
+    "answer": 2
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": 3
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "George Eliot"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": 1
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian festival is known as the Festival of Lights?",
+    "options": ["Holi", "Diwali", "Durga Puja", "Eid"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first man to walk on the Moon?",
+    "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+    "answer": 3
+  },
+  {
+    "question": "Which state in India is known for its backwaters?",
+    "options": ["Goa", "Kerala", "Maharashtra", "Tamil Nadu"],
+    "answer": 2
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "answer": 3
+  },
+  {
+    "question": "Which battle marked the end of the Mughal Empire?",
+    "options": ["Battle of Panipat", "Battle of Plassey", "Battle of Buxar", "Third Battle of Panipat"],
+    "answer": 4
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": 3
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Vallabhbhai Patel"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the longest bone in the human body?",
+    "options": ["Femur", "Tibia", "Humerus", "Radius"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": 3
+  },
+  {
+    "question": "Which element is essential for the formation of chlorophyll?",
+    "options": ["Iron", "Magnesium", "Calcium", "Potassium"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Rajendra Prasad", "Sardar Vallabhbhai Patel"],
+    "answer": 2
+  },
+  {
+    "question": "Which lake is the largest freshwater lake by volume?",
+    "options": ["Lake Superior", "Lake Baikal", "Lake Michigan", "Lake Victoria"],
+    "answer": 2
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian state has the highest literacy rate?",
+    "options": ["Kerala", "Goa", "Mizoram", "Tamil Nadu"],
+    "answer": 1
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": 2
+  },
+  {
+    "question": "Who composed the national anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Alluri Sitarama Raju", "K. Kamaraj"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+    "answer": 3
+  },
+  {
+    "question": "Which vitamin is also known as ascorbic acid?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the leader of the Maurya Empire?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+    "answer": 2
+  },
+  {
+    "question": "Which river is the longest in India?",
+    "options": ["Ganges", "Yamuna", "Godavari", "Indus"],
+    "answer": 1
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": 1
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["China", "Brazil", "Russia", "Japan"],
+    "answer": 2
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the highest mountain peak in the world?",
+    "options": ["K2", "Kangchenjunga", "Lhotse", "Everest"],
+    "answer": 4
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["Alexandria", "Cairo", "Luxor", "Giza"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Rosalind Franklin", "Lise Meitner", "Irène Joliot-Curie"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "answer": 1
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^10 m/s", "3 × 10^4 m/s"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": ["Guadalajara", "Monterrey", "Mexico City", "Puebla"],
+    "answer": 3
+  },
+  {
+    "question": "Which element has the highest melting point?",
+    "options": ["Tungsten", "Carbon", "Osmium", "Iridium"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "answer": 3
+  },
+  {
+    "question": "Which river is known as the 'Lifeline of Egypt'?",
+    "options": ["Tigris", "Euphrates", "Nile", "Jordan"],
+    "answer": 3
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Ir", "Fe", "In", "Io"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian leader is known as 'Sardar'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Rajguru"],
+    "answer": 3
+  },
+  {
+    "question": "Which is the deepest ocean trench?",
+    "options": ["Puerto Rico Trench", "Japan Trench", "Mariana Trench", "Peru-Chile Trench"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+    "answer": 1
+  },
+  {
+    "question": "Which vitamin helps in blood clotting?",
+    "options": ["Vitamin A", "Vitamin K", "Vitamin C", "Vitamin D"],
+    "answer": 2
+  },
+  {
+    "question": "Who founded the Maurya Dynasty?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the largest gland in the human body?",
+    "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": ["St. Petersburg", "Moscow", "Kazan", "Novosibirsk"],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist discovered radioactivity?",
+    "options": ["Marie Curie", "Pierre Curie", "Henri Becquerel", "Ernest Rutherford"],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian state has the most number of wildlife sanctuaries?",
+    "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Maharashtra"],
+    "answer": 1
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": ["-10°C", "0°C", "10°C", "20°C"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+    "answer": 2
+  },
+  {
+    "question": "Which element is used in making semiconductors?",
+    "options": ["Silicon", "Carbon", "Iron", "Copper"],
+    "answer": 1
+  }
+]
